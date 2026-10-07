@@ -1,0 +1,10 @@
+[
+    {
+        "descricao": "fazer a automção de planilhas",
+        "responsavel": "desenvolvedor de sistemas"
+    },
+    {
+        "descricao": "fazer o registro dos clientes no banco de dados",
+        "responsavel": "eng.dados"
+    }
+]
